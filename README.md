@@ -14,9 +14,9 @@ Simulink:
 ![Simulink](https://s8.uupload.ir/files/screenshot_2023-06-25_224021_mf14.png)
 
 Robot Structure:
-![First](https://s8.uupload.ir/files/img_2994_uf2t.jpg)
-![Second](https://s8.uupload.ir/files/img_2995_j0dm.jpg)
-![Third](https://s8.uupload.ir/files/img_3003_t31v.jpg)
+![First](https://s8.uupload.ir/files/rsz_1img_2994_lbmq.jpg)
+![Second](https://s8.uupload.ir/files/rsz_img_2995_geh.jpg)
+![Third](https://s8.uupload.ir/files/rsz_img_3003_ydh.jpg)
 
 ## Authors
 
